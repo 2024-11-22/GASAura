@@ -35,6 +35,7 @@
 *.exe
 *.out
 *.app
+/.idea
 /.vs
 /.vsconfig
 /Aura_Learn.sln
